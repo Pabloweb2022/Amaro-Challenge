@@ -1,5 +1,5 @@
 
-# 📜Amaro Challenge
+<h1 align="center"> 📜Amaro Challenge </h1>
 O objetivo deste desafio é desenvolver uma API para cadastros e consultas de produtos.
 O desafio é disponibilizado acessando o seguinte link: https://github.com/amaroteam/back-end-challenge.
 
