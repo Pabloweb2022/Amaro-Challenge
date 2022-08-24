@@ -14,13 +14,13 @@ Acesse o deploy clicando no link https://backend-case-amaro.herokuapp.com/
 ✅ Endpoint para consulta de produtos por meio de id, nome e tag.
 
 ## 🛠️ Ferramentas
-[React](https://pt-br.reactjs.org/);
-[Typescript](https://www.typescriptlang.org/docs/);
-[NodeJS](https://nodejs.org/pt-br/docs/);
-[MySQL](https://dev.mysql.com/doc/);
-[UUID](https://www.npmjs.com/package/uuid);
-[Knex](http://knexjs.org/guide/);
-[Dotenv](https://www.npmjs.com/package/dotenv).
+- [React](https://pt-br.reactjs.org/);
+- [Typescript](https://www.typescriptlang.org/docs/);
+- [NodeJS](https://nodejs.org/pt-br/docs/);
+- [MySQL](https://dev.mysql.com/doc/);
+- [UUID](https://www.npmjs.com/package/uuid);
+- [Knex](http://knexjs.org/guide/);
+- [Dotenv](https://www.npmjs.com/package/dotenv).
 
 
 
